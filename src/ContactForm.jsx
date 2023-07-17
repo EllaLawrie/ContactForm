@@ -64,7 +64,7 @@ const ContactForm = () => {
                 id='name'
                 className='w-full border border-gray-200 px-3 py-2 mt-1 rounded-lg focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500'
                 name='name'
-                type='text'
+                type='text..'
                 onChange={formik.handleChange}
                 value={formik.values.name}
               />
