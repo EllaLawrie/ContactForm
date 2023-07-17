@@ -88,7 +88,7 @@ const ContactForm = () => {
               )}
             </div>
             <div>
-              <label htmlFor='subject..'>Subject</label>
+              <label htmlFor='subject'>Subject</label>
               <input
                 id='subject'
                 className='w-full border border-gray-200 px-3 py-2 mt-1 rounded-lg shadow-sm focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500'
